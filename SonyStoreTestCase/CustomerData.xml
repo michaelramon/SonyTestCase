@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!-- A customer data file -->
+<CustomerData>
+	<customer1>
+		<email>JoePoppingFresh@hotmail.com</email>
+		<password>P@sswords</password>
+		<country>US</country>
+		<firstname>Joe</firstname>
+		<lastname>PoppingFresh</lastname>
+		<shipaddress>6910 Fayetteville Road</shipaddress>
+		<shipcity>Durham</shipcity>
+		<shipzipcode>27713</shipzipcode>
+		<phone>336-315-7070</phone>
+		<state>NC</state>
+		<billaddress>8111 Concord Mills Blvd</billaddress>
+		<billcity>Concord</billcity>
+		<billzip>28027</billzip>
+		<wishlist>PoppingFresh Pops</wishlist>
+	</customer1>
+</CustomerData>
